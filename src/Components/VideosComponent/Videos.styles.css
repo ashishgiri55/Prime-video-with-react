@@ -1,0 +1,11 @@
+.videoBlock article {
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+    grid-gap: 0.5em;
+
+}
+
+video {
+    width: 100%;
+    height: 300px;
+}

@@ -1,0 +1,16 @@
+    .registerComponent .inside_logo {
+        width: 150px;
+        text-align: center;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .a-button-primary {
+        background: #f0c14b;
+        border-color: #a88734 #9c7e31 #846a29;
+        color: #111;
+        border-radius: 3px;
+        border: none;
+        padding: 4px;
+        /* border: 1px solid #666; */
+    }
